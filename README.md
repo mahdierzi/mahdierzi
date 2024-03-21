@@ -4,4 +4,4 @@
 
 - 🎓&nbsp; Computer student in shahrood university
 - 🌱&nbsp; Learning javascript
-- 🎈&nbsp; Cooding & playing are my hobby
+- 🎈&nbsp; Cooding & playing are my hobby:)
