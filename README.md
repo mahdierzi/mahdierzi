@@ -1,7 +1,7 @@
-## Hi there
+<h2>Hi There! I'm Mahdie Rezaei🖐</h2>
 
-## My activity 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+<h3>About Me</h3>
 
-## My projects languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
+- 🎓&nbsp; Computer student in shahrood university
+- 🌱&nbsp; Learning javascript
+- 🎈&nbsp; Cooding & playing are my hobby
