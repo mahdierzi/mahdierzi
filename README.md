@@ -6,12 +6,10 @@
 - 🌱&nbsp; Learning javascript
 - 🎈&nbsp; Cooding & playing are my hobby :)
 
-<h2>🔧&nbsp; Tech Stack</h2>
-
-- 💻&nbsp;
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<div align='center' width='100%'>
+<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Skills & Tools </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+</div>
+<br><br>
 
   <br/>
   <h2>&nbsp;Github stats</h2>
