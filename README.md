@@ -1,21 +1,4 @@
 <div align='center' width='100%'>
-Hi!I'm Mahdie.
-</div>
-<br><br>
-<div align='center' width='100%'>
-<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > About me </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
-</div>
-<br><br>
-
- <div>
-  
-   - I like to explore new technologies.
-   - im currently learning javascript.
-   - Watching movies and playing are my hobbies.
-   - How to reach me mahdieh.rezaei83@gmail.com.
-
- </div>
-<div align='center' width='100%'>
 <img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Skills & Tools </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 </div>
 <br><br>
@@ -50,13 +33,13 @@ Hi!I'm Mahdie.
 
 <p align='center'>
 
-<a href="https://www.linkedin.com/in//" target="_blank">
+<a href="https://www.linkedin.com/in/mahdie-rezaei/" target="_blank">
     <img class="icon"  alt="instagram" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png" /></a>
 <a href="https://github.com/mahdierzi" target="_blank">
     <img class="icon"    alt="Github"  src="https://img.icons8.com/3d-fluency/94/null/github.png" />
 </a>
 
-<a href="http://T.me/mahdie_rezaei" target="_blank">
+<a href="http://T.me/mahdie_rzii" target="_blank">
     <img class="icon"  alt="telegram"  src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png" />
 </a>
 
