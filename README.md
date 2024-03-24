@@ -1,5 +1,20 @@
-<img src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/85b0a901-733c-493b-9f98-14def92de837' width='10%' /> <img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=9a89ff&random=false&width=435&lines=Hello%2C+I%E2%80%99m+Mahdie+Rezaei;'  width='60%' >
+<div align='center' width='100%'>
+Hi!I'm Mahdie.
+</div>
+<br><br>
+<div align='center' width='100%'>
+<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > About me </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+</div>
+<br><br>
 
+ <div>
+  
+   - I like to explore new technologies.
+   - im currently learning javascript.
+   - Watching movies and playing are my hobbies.
+   - How to reach me mahdieh.rezaei83@gmail.com.
+
+ </div>
 <div align='center' width='100%'>
 <img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Skills & Tools </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 </div>
